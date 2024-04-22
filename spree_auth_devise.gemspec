@@ -29,7 +29,7 @@ Gem::Specification.new do |s|
 
   s.add_development_dependency 'spree_backend', spree_version
   s.add_development_dependency 'spree_frontend', spree_version
-  s.add_development_dependency 'sqlite3'
+  # s.add_development_dependency 'sqlite3'
   s.add_development_dependency 'mysql2'
   s.add_development_dependency 'pg'
   s.add_development_dependency 'sass-rails', '~> 4.0.0'
